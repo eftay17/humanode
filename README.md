@@ -7,8 +7,6 @@
 </h1>
 
 
- * [Topluluk kanalımız](https://t.me/corenodechat)<br>
- * [Topluluk Twitter](https://twitter.com/corenodeHQ)<br>
  * [Humanode Website](https://humanode.io/)<br>
  * [Blockchain Explorer](https://polkadot.js.org/apps/?rpc=wss://explorer-rpc-ws.mainnet.stages.humanode.io#/accounts)<br>
  * [Blockchain Explorer Subscan](https://humanode.subscan.io/)<br>
