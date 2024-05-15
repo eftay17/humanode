@@ -22,7 +22,7 @@
 | CPU |	4|
 | RAM	| 8+ GB |
 | Storage	| 80 GB SSD |
-
+Ubuntu 20 ye kurulacak
 
 
 ### Kurulum
